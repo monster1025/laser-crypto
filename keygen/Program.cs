@@ -107,8 +107,8 @@ namespace keygen
         static void Main(string[] args)
         {
 			Console.WriteLine("You cutter license key is: ");
-			Console.Write(GetLicenceForCutter());
-			Console.WriteLine("----------------------------- COPY UNTIL THIS LINE ------------------------- ");
+			Console.WriteLine(GetLicenceForCutter());
+			Console.WriteLine("----------------------------- COPY UNTIL THIS LINE -------------------------");
 
 			Console.Write("Please enter hardware ID: ");
             var key = Console.ReadLine();

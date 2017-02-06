@@ -1,1 +1,13 @@
-﻿<Properties StartupConfiguration="{D4C80689-6490-4754-9453-D0EF6081FCDB}|Default" />
+﻿<Properties StartupConfiguration="{D4C80689-6490-4754-9453-D0EF6081FCDB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="111" Column="99" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.keygen PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
