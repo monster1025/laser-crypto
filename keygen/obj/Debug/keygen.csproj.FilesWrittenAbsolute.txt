@@ -1,0 +1,6 @@
+/Volumes/MacData/Projects/laser-crypto/keygen/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Volumes/MacData/Projects/laser-crypto/keygen/bin/Debug/keygen.exe.config
+/Volumes/MacData/Projects/laser-crypto/keygen/bin/Debug/keygen.exe.mdb
+/Volumes/MacData/Projects/laser-crypto/keygen/bin/Debug/keygen.exe
+/Volumes/MacData/Projects/laser-crypto/keygen/obj/Debug/keygen.exe
+/Volumes/MacData/Projects/laser-crypto/keygen/obj/Debug/keygen.exe.mdb
