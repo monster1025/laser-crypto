@@ -1,0 +1,5 @@
+c:\users\kislov\documents\visual studio 2015\Projects\keygen\keygen\bin\Debug\keygen.exe.config
+c:\users\kislov\documents\visual studio 2015\Projects\keygen\keygen\bin\Debug\keygen.exe
+c:\users\kislov\documents\visual studio 2015\Projects\keygen\keygen\bin\Debug\keygen.pdb
+c:\users\kislov\documents\visual studio 2015\Projects\keygen\keygen\obj\Debug\keygen.exe
+c:\users\kislov\documents\visual studio 2015\Projects\keygen\keygen\obj\Debug\keygen.pdb
